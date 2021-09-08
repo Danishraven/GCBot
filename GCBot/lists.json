@@ -3,127 +3,127 @@
     {
       "ShortName": "GAR",
       "LongName": "Grand Army of the Republic",
-      "Faction": "USA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "6thAL",
       "LongName": "6th Alabama",
-      "Faction": "CSA"
+      "Faction": "ACS"
     },
     {
       "ShortName": "Sumners",
       "LongName": "Sumner's II Corps",
-      "Faction": "USA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "24thGA",
       "LongName": "24th Georgia",
-      "Faction": "CSA"
+      "Faction": "ACA"
     },
     {
       "ShortName": "LB",
       "LongName": "Lightning Brigade",
-      "Faction": "USA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "II",
       "LongName": "II Corps",
-      "Faction": "CSA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "PA",
       "LongName": "Pennsylvania Army",
-      "Faction": "USA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "PB",
       "LongName": "Pickett's Brigade",
-      "Faction": "CSA"
+      "Faction": "ACA"
     },
     {
       "ShortName": "TNA",
       "LongName": "The Northern Aggression",
-      "Faction": "USA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "ANV",
       "LongName": "Army of Northern Virginia",
-      "Faction": "CSA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "VI",
       "LongName": "VI Corps",
-      "Faction": "USA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "CIA",
       "LongName": "Confederacy of International Americans",
-      "Faction": "CSA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "I Corps",
       "LongName": "I Corps",
-      "Faction": "USA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "14thTN",
       "LongName": "14th Tennessee",
-      "Faction": "CSA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "4thNJ",
       "LongName": "4th New Jersey",
-      "Faction": "USA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "7thAR",
       "LongName": "7th Arkansas",
-      "Faction": "CSA"
+      "Faction": "ACA"
     },
     {
       "ShortName": "PD",
       "LongName": "Pleasonton's Division",
-      "Faction": "USA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "13thGA",
       "LongName": "13th Georgia",
-      "Faction": "CSA"
+      "Faction": "ACS"
     },
     {
       "ShortName": "15thMA",
       "LongName": "15th Massachusetts",
-      "Faction": "USA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "NSK",
       "LongName": "Nederlandse Strijdkrachten",
-      "Faction": "CSA"
+      "Faction": "ACS"
     },
     {
       "ShortName": "IX",
       "LongName": "IX Corps",
-      "Faction": "USA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "15thSC",
       "LongName": "15th South Carolina",
-      "Faction": "CSA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "5thFL",
       "LongName": "5th Florida",
-      "Faction": "CSA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "BB",
       "LongName": "Benning's Brigade",
-      "Faction": "CSA"
+      "Faction": "ACS"
     },
     {
       "ShortName": "9thLA",
       "LongName": "9th Louisiana",
-      "Faction": "CSA"
+      "Faction": "Unaligned"
     },
     {
       "ShortName": "5thNH",
@@ -169,8 +169,8 @@
   "RegimentalAdminRole": "Representative Officer",
   "BotChannel": "bot-commands",
   "StrategyRoles": [
-    "CSA Strategy",
-    "USA Strategy"
+    "ACA Strategy",
+    "ACS Strategy"
   ],
   "AutoRoles": [
     "Orator"
