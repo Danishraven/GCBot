@@ -2,8 +2,8 @@
 {
     public enum Faction
     {
-        CSA,
-        USA,
+        ACA,
+        ACS,
         Unaligned
     }
 }
